@@ -7,13 +7,6 @@
 #include <poll.h>
 #include <string.h>
 
-// проверить на константность
-// комменты для всего
-// delete comments
-// в клиенте в двух функциях передачи неправильно указан буфер
-// сделать абстрактный класс
-// getline?
-
 #define OPEN_MAX 256
 #define MAXLINE 130
 #define SERV_PORT 9999
